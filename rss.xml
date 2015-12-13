@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JonKramer]]></title>
+        <description><![CDATA[JonKramer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 11:15:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lorem]]></title>
+            <description><![CDATA[<article><h1>lorem</h1><p>lorum ipsum</p></article>]]></description>
+            <link>undefinedlorem/index.html</link>
+            <guid isPermaLink="false">f3bbedd0-b8b1-4c64-8865-51eea923ed26</guid>
+            <pubDate>Sun, 13 Dec 2015 11:15:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
